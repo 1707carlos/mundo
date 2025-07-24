@@ -1,6 +1,8 @@
 # Proyecto C++ con Makefile
 
-Este proyecto es un ejemplo básico en **C++** con una estructura organizada y un **Makefile** para facilitar la compilación.
+Este es un proyecto de ejemplo en **C++** que utiliza un **Makefile** para facilitar la compilación y organización del código.
+
+---
 
 ## ✅ Estructura del proyecto
 
@@ -13,6 +15,8 @@ mundo/
 │   └── funciones.cpp
 └── Makefile
 ```
+
+---
 
 ## 🔹 Cómo compilar
 
@@ -32,21 +36,14 @@ make
 make clean
 ```
 
-## 🔹 Cómo recompilar desde cero
-
-```bash
-make rebuild
-```
-
 ---
 
 ### 📌 Requisitos
 
 * g++
 * make
-* Git (para control de versiones)
 
 ---
 
-✔ Este proyecto está listo para usarse y ser subido a **GitHub**.
- 
+Este README es simple, claro y profesional, ideal para tu repositorio en GitHub.
+
