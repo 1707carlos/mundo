@@ -1,0 +1,13 @@
+{
+  "name": "C++ Codespaces",
+  "image": "mcr.microsoft.com/devcontainers/cpp:ubuntu-22.04",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "github.copilot"
+      ]
+    }
+  },
+  "postCreateCommand": "echo 'Entorno C++ listo con GCC y CMake!'"
+}
